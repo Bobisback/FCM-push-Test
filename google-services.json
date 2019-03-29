@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "406713033823",
+    "firebase_url": "https://fcm-push-test-a8294.firebaseio.com",
+    "project_id": "fcm-push-test-a8294",
+    "storage_bucket": "fcm-push-test-a8294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406713033823:android:2a49b12d90e42fb3",
+        "android_client_info": {
+          "package_name": "com.boballiance.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406713033823-826s39aol4skgb1bidk23j33t7flaeu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtOiIKTi-pwGzU8Q8FvmxZ7tDVzC1Jrwg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
